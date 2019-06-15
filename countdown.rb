@@ -17,4 +17,5 @@ def countdown_to_sleep(num)
   puts "#{num} SECOND(S)!"
   
   sleep(1)
+  num -= 1 
   
