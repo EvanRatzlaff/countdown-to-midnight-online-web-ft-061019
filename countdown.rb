@@ -18,4 +18,6 @@ def countdown_to_sleep(num)
   
   sleep(1)
   num -= 1 
-  
+  end
+  "HAPPY NEW YEAR"
+end 
