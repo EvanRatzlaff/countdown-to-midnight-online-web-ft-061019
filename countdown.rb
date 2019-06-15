@@ -10,4 +10,4 @@ def countdown(number)
   "HAPPY NEW YEAR"
 end
 
-def countdown_to_sleep
+def countdown_to_sleep(num)
